@@ -1,0 +1,10 @@
+# Python environment
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Dataset
+MPDD/
+SafeGuard/
+
